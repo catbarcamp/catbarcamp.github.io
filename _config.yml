@@ -1,0 +1,13 @@
+name: CATBarCamp
+pygments: true
+real_name: 'Computer Action Team - MCECS, Portland State University'
+github_org: 'catbarcamp'
+markdown:      kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+sections:
+  - {title: "About CATBarCamp", url: "/", name: 'about'}
+#  - {title: "Getting Here", url: "/directions.html", name: 'directions'}
+#  - {title: "FAQ", url: "/faq.html", name: 'faq'}
+#  - {title: "Schedule", url: "/schedule.html", name: 'schedule'}
+#  - {title: "Sponsors", url: "/sponsors.html", name: 'sponsors'}
+

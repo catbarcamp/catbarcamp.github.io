@@ -1,0 +1,10 @@
+language: ruby
+install:
+- gem install jekyll jekyll-tagging
+script:
+- jekyll build
+- ./_deploy.sh
+env:
+  global:
+  - secure: s6siBAVG857hC3cGW3cnywSQQQu4kpV+w0uFk1dEcghrJeA1MczXjwKrAtERAbTcm+WOzle1PGgziSTMykEo0Tl2Kn3psr61M7666YRU/9uf2qRD49VwiFb8OpSra9PWXu1y4wbGNSqOOkT0bIuRnDGg78rU5/xzp7Qj3bb1qZc=
+  - secure: eJaGVGazfhOysIWNxcRIJUx0GmTcqDdoAeEk91kgpWmO+cmV8V2hXAZVS5fVBtzc33IQ+sEd72lcBbVTS0LGu+OJNGVCXcGLDNFh1Q9UI2OGZUQaOpQW9E5Cvsyi+WxFtOAmZYL+Fabj+f/jB5xlmZRv1LJBgy9+BmGoeKBP89U=
