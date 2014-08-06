@@ -7,7 +7,9 @@ markdown_ext:  markdown,mkdown,mkdn,mkd,md
 sections:
   - {title: "About CATBarCamp", url: "/", name: 'about'}
 #  - {title: "Getting Here", url: "/directions.html", name: 'directions'}
-#  - {title: "FAQ", url: "/faq.html", name: 'faq'}
-#  - {title: "Schedule", url: "/schedule.html", name: 'schedule'}
+  - {title: "FAQ", url: "/faq.html", name: 'faq'}
+
+  - {title: "Schedule", url: "/schedule.html", name: 'schedule'}
+  - {title: "Code of Conduct", url: "/CoC.html", name: 'coc'}
 #  - {title: "Sponsors", url: "/sponsors.html", name: 'sponsors'}
 
