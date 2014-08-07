@@ -4,6 +4,9 @@ title: CATBarCamp is an Unconference!
 section: about
 ---
 
+## Sign up here:
+[Eventbrite](https://www.eventbrite.com/e/catbarcamp-tickets-11741644575))
+
 ## Like other Unconferences, CATBarCamp is:
 
 ### Open to everyone
