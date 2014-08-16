@@ -1,0 +1,14 @@
+body {
+    padding-top: 50px;
+}
+
+.sponsor_image {
+    max-width: 300px;
+    max-height: 150px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+hr {
+    clear: both
+}

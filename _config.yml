@@ -9,4 +9,5 @@ sections:
   - {title: "Schedule", url: "/schedule.html", name: 'schedule'}
   - {title: "FAQ", url: "/faq.html", name: 'faq'}
   - {title: "Code of Conduct", url: "/CoC.html", name: 'coc'}
+  - {title: "Sponsors", url: "/sponsors.html", name: 'sponsors'}
 
