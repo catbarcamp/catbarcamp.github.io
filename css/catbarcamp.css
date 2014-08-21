@@ -1,5 +1,9 @@
 body {
-    padding-top: 50px;
+    padding-top: 45px;
+}
+
+.jumbotron {
+    min-height: 190px;
 }
 
 .sponsor_image {
