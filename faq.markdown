@@ -17,7 +17,7 @@ Yes, the PSU campus has a “PSU Guest” wifi option.
 There is nothing that is required but there are a few recommended things. Such as note-taking supplies, a laptop/tablet, and a sweater/rain proof layer.
 
 ### Who to contact to receive accommodations relating to a disability?
-Please make a note of any accommodations you might need and the best way to reach you while registering for the event. One of our planners will contact you.
+Please contact us at catbarcamp@cat.pdx.edu with questions with a description of the accomodation you will need. One of our planners will respond to the email confirming we recieved your request and confirm the accomodations will be met
 
 ### Do I have to present?
 Not at all. Although we encourage everyone to participate by speaking we would also like this to be a fun experience. Therefore if you’re not comfortable presenting feel free to simply meet new people and learn something new!
