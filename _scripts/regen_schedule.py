@@ -58,6 +58,13 @@ section: schedule
   </tr>""".format(time=time.strftime("%I:%M%p").lower()))
 
 for room in rooms:
+    empty = True
+    for key in ["1000", "1100", "1330", "1430", "1600", "1700"]:
+        if room[key]:
+            empty = False
+            break
+    if empty:
+        continue
     print("""  <tr>
     <th>
       <strong>
