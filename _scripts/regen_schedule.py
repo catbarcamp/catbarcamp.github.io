@@ -25,7 +25,6 @@ title: Schedule
 section: schedule
 ---
 
-<h2>Talk Schedule - Last Updated {time}</h2>
 <table class="table table-hover">
   <tr>
     <th>
