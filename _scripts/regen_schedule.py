@@ -6,6 +6,7 @@
 # 3) there is no step 3
 
 import csv
+import time
 from urllib2 import urlopen
 
 rooms = []
@@ -24,36 +25,37 @@ title: Schedule
 section: schedule
 ---
 
+<h2>Talk Schedule - Last Updated {time}</h2>
 <table class="table table-hover">
   <tr>
     <th>
       Room
     </th>
     <th>
-      Session 1
+      10:00am
     </th>
     <th>
-      Session 2
+      11:00am
     </th>
     <th class="bg-warning">
       Lunch
     </th>
     <th>
-      Session 3
+      1:30pm
     </th>
     <th>
-      Session 4
+      2:30pm
     </th>
     <th class="bg-warning">
       Break
     </th>
     <th>
-      Session 5
+      4:00pm
     </th>
     <th>
-      Session 6
+      5:00pm
     </th>
-  </tr>""")
+  </tr>""".format(time=time.strftime("%I:%M%p").lower()))
 
 for room in rooms:
     print("""  <tr>
