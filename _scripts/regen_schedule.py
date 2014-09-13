@@ -71,23 +71,29 @@ for room in rooms:
       <span class="badge">{projector}</span>
     </th>""".format(name=room["name"], type=room["type"], projector=room["projector"]))
     for key in ["1000", "1100"]:
-        if not room[key]:
-            room[key] = "TBD"
-        print("    <td><h4>{0}</h4></td>".format(room[key]))
+        if room[key]:
+            title, speaker, description = room[key].split("/", 2)
+        else:
+            title, speaker, description = ["Available!", "", ""]
+        print("    <td><h4>{title}<br><small>{speaker}</small></h4>{description}</td>".format(title=title, speaker=speaker, description=description))
     print("""    <td class="bg-warning">
       Lunch
     </td>""")
     for key in ["1330", "1430"]:
-        if not room[key]:
-            room[key] = "TBD"
-        print("    <td><h4>{0}</h4></td>".format(room[key]))
+        if room[key]:
+            title, speaker, description = room[key].split("/", 2)
+        else:
+            title, speaker, description = ["Available!", "", ""]
+        print("    <td><h4>{title}<br><small>{speaker}</small></h4>{description}</td>".format(title=title, speaker=speaker, description=description))
     print("""    <td class="bg-warning">
       Break
     </td>""")
     for key in ["1600", "1700"]:
-        if not room[key]:
-            room[key] = "TBD"
-        print("    <td><h4>{0}</h4></td>".format(room[key]))
+        if room[key]:
+            title, speaker, description = room[key].split("/", 2)
+        else:
+            title, speaker, description = ["Available!", "", ""]
+        print("    <td><h4>{title}<br><small>{speaker}</small></h4>{description}</td>".format(title=title, speaker=speaker, description=description))
     print("  </tr>")
 
 print("</table>")
