@@ -4,7 +4,6 @@ real_name: 'Computer Action Team - MCECS, Portland State University'
 github_org: 'catbarcamp'
 markdown:      kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
-timezone: 'America/Los_Angeles'
 sections:
   - {title: "About CAT BarCamp", url: "/", name: 'about'}
   - {title: "Schedule", url: "/schedule.html", name: 'schedule'}
