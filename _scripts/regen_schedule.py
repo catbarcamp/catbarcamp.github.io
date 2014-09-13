@@ -26,6 +26,7 @@ section: schedule
 ---
 
 <h2>Talk Schedule - Last Updated {time}</h2>
+<h3><em>Lunch Will Be Provided!</em></h3>
 <table class="table table-hover">
   <tr>
     <th>
