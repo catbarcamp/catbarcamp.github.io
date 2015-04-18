@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:ns1="http://ns.adobe.com/Flows/1.0/"
+   xmlns:x="http://ns.adobe.com/Extensibility/1.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="130.80786"
+   height="150"
+   id="svg2">
+  <defs
+     id="defs4">
+    <foreignObject
+       id="foreignObject2175"
+       overflow="visible"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/Flows/1.0/">
+      <ns1:flowDef>
+        <ns1:region>
+          <ns1:path
+             d="M192.297,72" />
+        </ns1:region>
+        <ns1:flow
+           letter-spacing="-0.003em"
+           font-size="72"
+           font-family="'CenturyGothic-Bold'">
+          <ns1:p>
+            <ns1:span>bar</ns1:span>
+          </ns1:p>
+        </ns1:flow>
+      </ns1:flowDef>
+      <x:targetRef
+         xlink:href="#XMLID_1_" />
+    </foreignObject>
+    <foreignObject
+       id="foreignObject2182"
+       overflow="visible"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/Flows/1.0/">
+      <ns1:flowDef>
+        <ns1:region>
+          <ns1:path
+             d="M308.893,72" />
+        </ns1:region>
+        <ns1:flow
+           letter-spacing="-0.003em"
+           font-size="72"
+           font-family="'CenturyGothic'">
+          <ns1:p>
+            <ns1:span>ca</ns1:span>
+            <ns1:span
+               fill="none">m</ns1:span>
+            <ns1:span>p</ns1:span>
+          </ns1:p>
+        </ns1:flow>
+      </ns1:flowDef>
+      <x:targetRef
+         xlink:href="#XMLID_2_" />
+    </foreignObject>
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject2168">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(7.6522509,0,0,7.6522509,-2143.8088,-1561.0982)"
+     id="Pantone_Swatches"
+     style="opacity:0.8;display:none">
+    <path
+       d="m 42.128,346.39 -42.128,0 0,-25.386 42.128,0 0,25.386 z"
+       id="path2210"
+       style="fill:#570900;display:inline" />
+    <switch
+       id="switch2212"
+       style="display:inline">
+      <foreignObject
+         id="foreignObject2214"
+         overflow="visible"
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         requiredExtensions="http://ns.adobe.com/Flows/1.0/">
+        <ns1:flowDef>
+          <ns1:region>
+            <ns1:path
+               d="M51.865,337.857" />
+          </ns1:region>
+          <ns1:flow
+             letter-spacing="0.04em"
+             font-size="12"
+             font-family="'CenturyGothic'">
+            <ns1:p>
+              <ns1:span>pantone 7462U</ns1:span>
+            </ns1:p>
+          </ns1:flow>
+        </ns1:flowDef>
+        <x:targetRef
+           xlink:href="#XMLID_4_" />
+      </foreignObject>
+      <text
+         transform="translate(51.8652,337.8569)"
+         id="XMLID_4_">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan2217"
+           style="font-size:12px;letter-spacing:0.47999999;font-family:CenturyGothic">pantone 7462U</tspan>
+      </text>
+    </switch>
+    <g
+       id="g2219"
+       style="display:inline">
+      <path
+         d="m 201.128,346.389 -42.128,0 0,-25.385 42.128,0 0,25.385 z"
+         id="path2221"
+         style="fill:#f50002" />
+      <switch
+         id="switch2223">
+        <foreignObject
+           id="foreignObject2225"
+           overflow="visible"
+           height="1"
+           width="1"
+           y="0"
+           x="0"
+           requiredExtensions="http://ns.adobe.com/Flows/1.0/">
+          <ns1:flowDef>
+            <ns1:region>
+              <ns1:path
+                 d="M210.865,337.856" />
+            </ns1:region>
+            <ns1:flow
+               letter-spacing="0.04em"
+               font-size="12"
+               font-family="'CenturyGothic'">
+              <ns1:p>
+                <ns1:span>pantone 1797U</ns1:span>
+              </ns1:p>
+            </ns1:flow>
+          </ns1:flowDef>
+          <x:targetRef
+             xlink:href="#XMLID_5_" />
+        </foreignObject>
+        <text
+           transform="translate(210.8652,337.856)"
+           id="XMLID_5_">
+          <tspan
+             x="0"
+             y="0"
+             id="tspan2228"
+             style="font-size:12px;letter-spacing:0.47999999;font-family:CenturyGothic">pantone 1797U</tspan>
+        </text>
+      </switch>
+    </g>
+    <g
+       id="g2230"
+       style="display:inline">
+      <path
+         d="m 358.129,346.389 -42.129,0 0,-25.385 42.129,0 0,25.385 z"
+         id="path2232"
+         style="fill:#061040" />
+      <switch
+         id="switch2234">
+        <foreignObject
+           id="foreignObject2236"
+           overflow="visible"
+           height="1"
+           width="1"
+           y="0"
+           x="0"
+           requiredExtensions="http://ns.adobe.com/Flows/1.0/">
+          <ns1:flowDef>
+            <ns1:region>
+              <ns1:path
+                 d="M367.865,337.857" />
+            </ns1:region>
+            <ns1:flow
+               letter-spacing="0.04em"
+               font-size="12"
+               font-family="'CenturyGothic'">
+              <ns1:p>
+                <ns1:span>pantone 2767U</ns1:span>
+              </ns1:p>
+            </ns1:flow>
+          </ns1:flowDef>
+          <x:targetRef
+             xlink:href="#XMLID_6_" />
+        </foreignObject>
+        <text
+           transform="translate(367.8652,337.8569)"
+           id="XMLID_6_">
+          <tspan
+             x="0"
+             y="0"
+             id="tspan2239"
+             style="font-size:12px;letter-spacing:0.47999999;font-family:CenturyGothic">pantone 2767U</tspan>
+        </text>
+      </switch>
+    </g>
+    <g
+       id="g2241"
+       style="display:inline">
+      <path
+         d="m 517.129,346.39 -42.129,0 0,-25.386 42.129,0 0,25.386 z"
+         id="path2243"
+         style="fill:#094891" />
+      <switch
+         id="switch2245">
+        <foreignObject
+           id="foreignObject2247"
+           overflow="visible"
+           height="1"
+           width="1"
+           y="0"
+           x="0"
+           requiredExtensions="http://ns.adobe.com/Flows/1.0/">
+          <ns1:flowDef>
+            <ns1:region>
+              <ns1:path
+                 d="M526.865,337.858" />
+            </ns1:region>
+            <ns1:flow
+               letter-spacing="0.04em"
+               font-size="12"
+               font-family="'CenturyGothic'">
+              <ns1:p>
+                <ns1:span>pantone 7462U</ns1:span>
+              </ns1:p>
+            </ns1:flow>
+          </ns1:flowDef>
+          <x:targetRef
+             xlink:href="#XMLID_7_" />
+        </foreignObject>
+        <text
+           transform="translate(526.8652,337.8579)"
+           id="XMLID_7_">
+          <tspan
+             x="0"
+             y="0"
+             id="tspan2250"
+             style="font-size:12px;letter-spacing:0.47999999;font-family:CenturyGothic">pantone 7462U</tspan>
+        </text>
+      </switch>
+    </g>
+  </g>
+  <g
+     transform="matrix(0.18488306,0,0,0.18488306,-3.3798934,-22.281971)"
+     id="g4296">
+    <g
+       transform="matrix(7.6522509,0,0,7.6522509,-2095.5276,-833.25522)"
+       id="GRAND_RAPIDS"
+       style="opacity:0.8">
+      <switch
+         id="switch2192">
+        <foreignObject
+           requiredExtensions="http://ns.adobe.com/Flows/1.0/"
+           x="0"
+           y="0"
+           width="1"
+           height="1"
+           overflow="visible"
+           id="foreignObject2194">
+          <ns1:flowDef>
+            <ns1:region>
+              <ns1:path
+                 d="M506.733,26.298" />
+            </ns1:region>
+            <ns1:flow
+               font-family="'CenturyGothic'"
+               font-size="18"
+               letter-spacing="0.04em"
+               text-align="right"
+               text-align-last="right">
+              <ns1:p>
+                <ns1:span>GRAND R</ns1:span>
+                <ns1:span
+                   fill="none">A</ns1:span>
+                <ns1:span>PIDS</ns1:span>
+              </ns1:p>
+            </ns1:flow>
+          </ns1:flowDef>
+          <x:targetRef
+             xlink:href="#XMLID_3_" />
+        </foreignObject>
+      </switch>
+    </g>
+    <path
+       d="m 77.208893,120.51927 84.153977,84.43037 -84.153977,84.47639 0,-168.90676 z"
+       id="path3170"
+       style="fill:#a7b629;fill-opacity:1;stroke:none" />
+    <path
+       d="m 259.05887,120.51927 0,168.90676 -84.15398,-84.47639 84.15398,-84.43037 z"
+       id="path3168"
+       style="fill:#a7b629;fill-opacity:1;stroke:none" />
+    <path
+       d="m 168.13388,210.01637 90.92499,90.92499 -90.92499,90.92499 -90.924987,-90.92499 90.924987,-90.92499 z"
+       id="path3166"
+       style="fill:#a7b629;fill-opacity:1;stroke:none" />
+    <path
+       d="M 163.125,392.5 18.28125,533.09375 163.125,673.625 l 0,-59.40625 c -21.41974,1.07168 -41.31489,-4.49667 -59.03125,-13.90625 -18.463649,-9.82217 -24.107114,-30.86131 -24.5,-47.09375 C 79.140889,535.35271 91.25,509.375 91.25,509.375 c 0,0 -0.01258,16.25194 8.03125,27.625 8.04386,11.35237 22.53832,4.86954 19.3125,-9.75 -3.20516,-14.59886 -5.8242,-35.98601 -3.21875,-43.84375 2.00579,-6.07942 8.03125,-11.375 8.03125,-11.375 0,0 -1.59426,13.00702 8.0625,19.5 9.63609,6.49298 19.28627,-1.6406 24.125,-6.5 4.81801,-4.88006 7.64472,-13.39061 4.4375,-18.25 -3.22787,-4.88006 -10.11701,-8.49927 -13.21875,-20.90625 -1.96238,-7.87842 10.375,-23.78125 10.375,-23.78125 0,0 -2.21329,11.82964 -0.375,18.28125 0.91463,3.20255 3.19684,5.54143 6.3125,7.1875 l 0,-55.0625 z"
+       id="path3164"
+       style="fill:#a7b629;fill-opacity:1;stroke:none" />
+    <path
+       d="m 172.375,404.59375 0,45.78125 c 1.85528,0.28643 3.78865,0.4691 5.75,0.5625 9.78082,0.45493 19.29889,6.47931 16.09375,16.21875 -3.22582,9.73949 -18.53125,28.04178 -18.53125,37.78125 0,9.73948 18.5116,17.43049 29.78125,10.9375 11.24899,-6.49297 8.0625,-32.46875 8.0625,-32.46875 0,0 18.22664,8.16632 19.28125,17.84375 2.00577,18.25892 -10.60898,32.67536 -11.25,40.78125 -0.80646,10.15304 8.67963,10.74755 13.1875,9.03125 3.68073,-1.38543 7.71875,-17.3125 7.71875,-17.3125 0,0 4.61442,7.95978 4.71875,19.25 0.12597,13.62612 -6.30564,32.1038 -35.28125,47.3125 -13.58118,7.12856 -26.80605,11.29724 -39.53125,13.0625 l 0,199.03125 L 383.53125,608.5 172.375,404.59375 z"
+       id="path3162"
+       style="fill:#a7b629;fill-opacity:1;stroke:none" />
+    <path
+       d="m 383.51651,623.83105 0,308.01189 -319.94176,0 319.94176,-308.01189 z"
+       id="path3160"
+       style="fill:#a7b629;fill-opacity:1;stroke:none" />
+    <path
+       d="m 527.04349,739.85946 198.75451,0 -134.40688,191.98348 -198.75448,0 134.40685,-191.98348 z"
+       id="path2207"
+       style="fill:#a7b629;fill-opacity:1;stroke:none" />
+  </g>
+  <style
+     type="text/css"
+     id="style2162" />
+</svg>
