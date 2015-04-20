@@ -8,7 +8,7 @@ section: faq
 Although parking will not be provided by the event, attendees may use designated street parking and the PSU parking structures for a fee. 
 
 ### Is RSVPing required?
-RSVPing is not required to attend the event but we would appreciate anyone who would like to attend to register at our [Eventbrite site](https://www.eventbrite.com/e/catbarcamp-tickets-11741644575) to give our planners a better idea of how many people will be participating.
+RSVPing is not required to attend the event but we would appreciate anyone who would like to attend to register (link soon to be provided) to give our planners a better idea of how many people will be participating.
 
 ### Will there be WiFi?
 Yes, the PSU campus has a “PSU Guest” wifi option.
