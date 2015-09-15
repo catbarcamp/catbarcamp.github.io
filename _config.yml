@@ -5,7 +5,7 @@ github_org: 'catbarcamp'
 markdown:      kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 sections:
-  - {title: "About CAT BarCamp", url: "/", name: 'about'}
+  - {title: "About CAT Barcamp", url: "/", name: 'about'}
   - {title: "Schedule", url: "/schedule.html", name: 'schedule'}
   - {title: "FAQ", url: "/faq.html", name: 'faq'}
   - {title: "Code of Conduct", url: "/CoC.html", name: 'coc'}
