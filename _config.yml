@@ -1,5 +1,4 @@
 name: CAT BarCamp
-pygments: true
 real_name: 'Computer Action Team - MCECS, Portland State University'
 github_org: 'catbarcamp'
 markdown:      kramdown
