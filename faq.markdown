@@ -20,7 +20,7 @@ Probably! As long as your topic is worksafe and appropriate for all ages, you’
 Although parking will not be provided by the event, attendees may use designated street parking and the PSU parking structures for a fee.
 
 ###Is RSVPing required?
-RSVPing is not required to attend the event but we would appreciate anyone who would like to attend to register (goo.gl/Bf9ttp eventbrite link) to give our planners a better idea of how many people will be participating.
+RSVPing is not required to attend the event but we would appreciate anyone who would like to attend to register [Eventbrite](https://www.eventbrite.com/myevent?eid=24878488228) to give our planners a better idea of how many people will be participating.
 
 ###Will there be WiFi?
 Yes, the PSU campus has a “PSU Guest” wifi option.
