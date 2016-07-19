@@ -1,0 +1,32 @@
+body {
+    padding-top: 45px;
+}
+
+.jumbotron {
+    min-height: 190px;
+}
+
+.other-logo {
+    max-width: 300px;
+    max-height: 150px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+hr {
+    clear: both
+}
+
+.btn-custom {
+    background-color: #2E420B;
+    border-color: #ffffff;
+    border-width: 2px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-custom:hover {
+    background-color: #253608;
+    border-color: #ffffff;
+}
