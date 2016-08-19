@@ -24,7 +24,7 @@ layout: blog
   <div class="panel-footer">
     <ul class="nav nav-pills">
       {% for tag in post.tags %}
-      <li><a href="/tag/{{ tag }}.html">{{ tag }}</a></li>
+      <li><a href="{{ site.baseurl }}/tag/{{ tag }}.html">{{ tag }}</a></li>
       {% endfor %}
     </ul>
   </div>

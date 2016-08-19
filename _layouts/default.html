@@ -11,14 +11,14 @@
     <title>{{ page.title }}</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Font-Awesome core CSS -->
-    <link href="/font_awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/font_awesome/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="/bootstrap/css/syntax.css" rel="stylesheet">
-    <link href="/css/catbarcamp.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/bootstrap/css/syntax.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/css/catbarcamp.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -41,7 +41,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/">{{ site.name }}</a>
+          <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.name }}</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -62,8 +62,8 @@
     <!-- Bootstrap core JavaScript
          ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="/js/jquery.js"></script>
-    <script src="/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ site.baseurl }}/js/jquery.js"></script>
+    <script src="{{ site.baseurl }}/bootstrap/js/bootstrap.min.js"></script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
