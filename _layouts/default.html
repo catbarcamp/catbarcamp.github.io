@@ -46,7 +46,7 @@
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             {% for section in site.sections %}
-            <li{% if page.section == section.name %} class="active"{% endif %}><a href="{{ site.baseurl }}/{{section.url}}">{{section.title}}</a></li>{% endfor %}
+            <li{% unless section.name == "donate" %} class="active"{% endunless %}><a href="{{ site.baseurl }}/{{section.url}}">{{section.title}}</a></li>{% endfor %}
           </ul>
         </div><!--/.nav-collapse -->
       </div>
