@@ -45,3 +45,8 @@ hr {
 	color: #ffe8d4;
 	border-color: #4c0000;
 }
+
+.other-logo.center-block {
+	margin-right: auto;
+	margin-left: auto;
+}
