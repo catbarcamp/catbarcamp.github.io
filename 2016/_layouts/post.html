@@ -1,0 +1,33 @@
+---
+layout: default
+section: blog
+---
+
+<h1>
+  <a href="{{ post.url }}">{{ page.title }}</a>
+  <br>
+  <small>{{ page.date | date_to_string }}</small>
+</h1>
+
+<div class="row">
+  <div class="col-md-9">
+    <p>
+      {{ content }}
+    </p>
+  </div>
+  <div class="col-md-3">
+    <h4>Other Posts</h4>
+    <ul class="nav nav-pills">
+      <li><a href="{{ site.baseurl }}/blog/archive.html">All Blog Posts</a></li>
+    </ul>
+
+    <hr>
+    <h4>Tags</h4>
+
+        <ul class="nav nav-pills">
+          {% for tag in page.tags %}
+	  <li><a href="{{ site.baseurl }}/tag/{{ tag }}.html">{{ tag }}</a></li>
+	  {% endfor %}
+        </ul>
+  </div>
+</div>

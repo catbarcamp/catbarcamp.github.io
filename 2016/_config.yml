@@ -1,0 +1,17 @@
+name: CAT BarCamp
+real_name: 'Computer Action Team - MCECS, Portland State University'
+github_org: 'catbarcamp'
+markdown:      kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+baseurl: /catbarcamp.github.io
+sections:
+  - {title: "About CAT Barcamp", url: "/", name: 'about'}
+  - {title: "Schedule", url: "schedule.html", name: 'schedule'}
+  - {title: "FAQ", url: "faq.html", name: 'faq'}
+  - {title: "Code of Conduct", url: "CoC.html", name: 'coc'}
+  - {title: "Press", url: "press.html", name: 'press'}  
+  - {title: "Sponsors", url: "sponsors.html", name: 'sponsors'}
+  - {title: "Donate", url: "https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=186&site=giving", name: 'donate'}
+
+
