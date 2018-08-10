@@ -12,6 +12,6 @@ sections:
   - {title: "Code of Conduct", url: "CoC.html", name: 'coc'}
   - {title: "Press", url: "press.html", name: 'press'}  
   - {title: "Sponsors", url: "sponsors.html", name: 'sponsors'}
-  - {title: "Donate", url: "https://giving.psuf.org/givenow?id=91c6569b-ac01-4eb1-8458-391e4ad9d221", name: 'donate'}
+  - {title: "Donate", url: "https://giving.psuf.org/thecat", name: 'donate'}
 
 
