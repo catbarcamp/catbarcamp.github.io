@@ -29,7 +29,7 @@ Yes, the PSU campus has a “PSU Guest” wifi option.
 There are no necessities, but you may find note-taking equipment, rain gear, and a snack useful.
 
 ### Who to contact to receive accommodations relating to a disability?
-Please contact us at catbarcamp@cat.pdx.edu with questions and a description of the accommodation you will need. One of our planners will respond to the email confirming we received your request and the accommodations will be met
+Please contact us at catbarcamp@cat.pdx.edu with questions and a description of the accommodation you will need. One of our planners will respond to the email confirming we received your request and we will proceed with discussing accomodations.
 
 ### What about Restrooms?
 In the Engineering Building there are a set of restrooms on every floor. In the Fourth Avenue Building restrooms can be found towards the middle of the basement floor (near Circuits Lounge) and towards the harrison St. entrance. We realize maneuvering the buildings can be tricky so feel free to ask one of our volunteers if you need assistance.
